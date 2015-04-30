@@ -1,3 +1,3 @@
 # RepoDepo
 My first repository
-Hey Kid I'm a readme file
+Hey kid, I'm a readme file.
